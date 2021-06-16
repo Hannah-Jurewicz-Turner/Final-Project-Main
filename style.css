@@ -1,0 +1,86 @@
+.body {
+  background-color: lavenderblush;
+}
+
+.header {
+  text-align: center;
+}
+
+.paragraph {
+  text-align: center;
+  font-size: 120%;
+}
+
+.image-one {
+  float: left;
+  width: 15%;
+  padding: 1%;
+  border: 15px solid pink;
+  margin: 1%;
+}
+
+.game-one {
+  font-size: 200%;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.div-one {
+  content: "";
+  clear: both;
+  display: table;
+  border: 2px solid pink;
+  width: 100%;
+  text-align: center;
+}
+
+.image-two {
+  float: right;
+  width: 15%;
+  padding: 1%;
+  border: 15px solid pink;
+  margin: 1%;
+}
+
+.game-two {
+  font-size: 200%;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.div-two {
+  content: "";
+  clear: both;
+  display: table;
+  border: 2px solid pink;
+  width: 100%;
+  text-align: center;
+}
+
+.image-three {
+  float: left;
+  width: 15%;
+  padding: 1%;
+  border: 15px solid pink;
+  margin: 1%;
+}
+
+.game-three {
+  font-size: 200%;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.div-three {
+  content: "";
+  clear: both;
+  display: table;
+  border: 2px solid pink;
+  width: 100%;
+  text-align: center;
+}
+
+.bye {
+  text-align: center;
+  font-size: 120%;
+}
